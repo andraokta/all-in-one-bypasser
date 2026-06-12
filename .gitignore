@@ -1,0 +1,7 @@
+# VS Code local config
+.vscode/
+
+# System log files
+*.log
+Thumbs.db
+.DS_Store
